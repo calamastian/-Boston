@@ -86,4 +86,4 @@
 *	SQL (CTE, JOINs)
 *	Python (Pandas, NumPy, Matplotlib, Seaborn)
 *	Jupyter Notebook
-*	Tableau (map, line, scatter plot)
+*	Tableau (map, line, scatter plot) https://public.tableau.com/app/profile/anna.kirillova/viz/Boston_17748999296720/Dashboard1
